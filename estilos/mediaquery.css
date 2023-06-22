@@ -5,8 +5,8 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     #login {
-        width: 70vw;
-        height: 60vh;
+        width: 90vw;
+        height: 80vh;
         
     }
     #login > #imagem {
@@ -38,8 +38,8 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     #login {
-        width: 70vw;
-        height: 55vh;
+        width: 80vw;
+        height: 70vh;
     }
     #login > #imagem {
         float: right;
