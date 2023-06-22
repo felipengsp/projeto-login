@@ -31,7 +31,7 @@ main {
     left: 50%;
     background-color: white;
     width: 250px;
-    height: 560px;
+    height: 510px;
     border-radius: 20px;
     overflow: hidden; /* para deixar a imagem a redondada com a borda */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.547);
