@@ -5,8 +5,8 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     #login {
-        width: 95vw;
-        height: 85vh;
+        width: 87vw;
+        height: 83vh;
         
     }
     #login > #imagem {
@@ -38,7 +38,7 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     #login {
-        width: 90vw;
+        width: 80vw;
         height: 70vh;
     }
     #login > #imagem {
@@ -72,6 +72,15 @@
     .botao {
        
         width: 80%;
+    }
+
+}
+
+@media screen and (min-width: 1300px) {
+    #login {
+        width: 70vw;
+        height: 53vh;
+        
     }
 
 }
