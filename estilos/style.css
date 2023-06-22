@@ -68,14 +68,15 @@ p {
     padding: 10px;
 }
 
-
-
+.botao {
+    height: 5vh;
+}
 form > a.botao {
     display: block ;
     text-align: center;
     font-size: 1em;
     
-    height: 29px;
+    
     background-color:white;
     color: black;
     border: 1px solid  #5dd2ce;
@@ -95,12 +96,14 @@ form > a.botao:hover {
     border: 2px solid #5f2c82;
     border-radius: 3px;
     background-color: #5dd2ce32;
+    height: 27px;
     
 }
 #ilogin {
     border: 2px solid #5f2c82;
     border-radius: 3px;
     background-color: #5dd2ce32;
+    height: 27px;
     
     
 }
@@ -113,7 +116,7 @@ form > a.botao:hover {
 }
 
 #cop{
-    padding-top: 15px ;
+    
     text-align: center;
     font-size: 0.6em;
 }
